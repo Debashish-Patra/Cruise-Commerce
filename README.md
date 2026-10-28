@@ -2,7 +2,7 @@
 
 > How a cruise company replaced queues, paper and brand-by-brand systems with one wearable, one app and one commerce platform.
 
-*Reference document · prepared by Debashish Patra · based on a 2016–2017 delivery*
+*Reference document · prepared by Debashish Patra · based on an engagement delivery*
 
 ---
 
